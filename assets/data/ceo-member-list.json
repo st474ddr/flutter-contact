@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Bill Gates",
+    "company":"Microsoft",
+    "contact" : "87654321",
+    "photo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/11/105322791-1531301768595gettyimages-467620670.1910x1000.jpg?v=1545151032",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "name":"Tim Cook",
+    "company":"Apple",
+    "contact" : "12345678",
+    "photo": "https://9to5mac.com/wp-content/uploads/sites/6/2019/01/Tim-Cook-Huawei.jpg?quality=82&strip=all&w=1500",
+    "url": "https://www.apple.com"
+  },
+  {
+    "name":"Mark Zuckerberg",
+    "company":"Facebook",
+    "contact" : "12345678",
+    "photo": "https://ichef.bbci.co.uk/news/976/cpsprodpb/125B3/production/_107178157_178151.jpg",
+    "url": "https://www.facebook.com"
+  },
+  {
+    "name":"Sundar Pichai",
+    "company":"Google",
+    "contact" : "12345678",
+    "photo": "https://img.etimg.com/thumb/msid-50318943,width-643,imgsize-337990,resizemode-4/four-things-even-google-doesnt-know-about-its-ceo-sundar-pichai.jpg",
+    "url": "https://www.google.com"
+  },
+  {
+    "name":"Jack Ma",
+    "company":"Alibaba",
+    "contact" : "12345678",
+    "photo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/18/104225995-_95A5004.530x298.jpg?v=1540458420",
+    "url": "https://www.alibaba.com"
+  },
+  {
+    "name":"Jeff Bezos",
+    "company":"Amazon",
+    "contact" : "12345678",
+    "photo": "https://media.newyorker.com/photos/5a666a6a6731fd1ea7517e21/master/w_727,c_limit/Angler-Im-Jeff-Bezos-Im-Your-Dad-Now.jpg",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "name":"Ginni Rometty",
+    "company":"IBM",
+    "contact" : "12345678",
+    "photo": "https://moneyinc.com/wp-content/uploads/2018/07/ginni-rometty-700x467.jpg",
+    "url": "https://www.ibm.com"
+  }
+]
